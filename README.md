@@ -1,2 +1,5 @@
 # LAB-20-STATIC-ROUTING-
-LAB 20
+Jum'at 15 Agustus 2025
+
+# Static ROuting
+![]()
