@@ -2,7 +2,7 @@
 Jum'at 15 Agustus 2025
 
 # Static Routing
-  ![a](IMAGES/)  
+  ![a](IMAGES/asdfg.png)  
   
 # Router 1
   1. Buat username dan password sesuai perintah di Topologi.  
