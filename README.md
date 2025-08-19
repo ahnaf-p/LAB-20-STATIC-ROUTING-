@@ -63,7 +63,7 @@ Jum'at 15 Agustus 2025
   
   5. Sekarang konfigurasi static routing di **IP > Route > Routes**  
   ![a](IMAGES/iprutr4.PNG)  
-  ![a](IMAGESiprutr44.PNG)  
+  ![a](IMAGES/iprutr44.PNG)  
   
 # Laptop  
   Jika semua router sudah di konfigurasi, selanjutnya kita setting IP untuk setiap laptop. Melalui Control Panel.  
