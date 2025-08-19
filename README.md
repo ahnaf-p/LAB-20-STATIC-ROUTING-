@@ -32,8 +32,8 @@ Jum'at 15 Agustus 2025
   ![a](IMAGES/ipr2.PNG)  
   
   5. Sekarang konfigurasi static routing di **IP > Route > Routes**  
-  ![a](IMAGES/iprutr2.PNG)  
-  ![a](IMAGES/iprutr22.PNG)  
+  ![a](IMAGES/iprutr2.png)  
+  ![a](IMAGES/iprutr22.png)  
 
 # Router 3
   1. Buat username dan password sesuai perintah di Topologi. Di **System > user**.  
@@ -47,8 +47,8 @@ Jum'at 15 Agustus 2025
   ![a](IMAGES/ipr3.PNG)  
   
   5. Sekarang konfigurasi static routing di **IP > Route > Routes**  
-  ![a](IMAGES/iprutr3.PNG)  
-  ![a](IMAGES/iprutr33.PNG)  
+  ![a](IMAGES/iprutr3.png)  
+  ![a](IMAGES/iprutr33.png)  
 
 # Router 4  
   1. Buat username dan password sesuai perintah di Topologi. Di **System > user**.  
